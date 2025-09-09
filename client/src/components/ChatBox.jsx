@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ChatBox = () => {
+function ChatBox() {
   return (
     <div>
       chat box
